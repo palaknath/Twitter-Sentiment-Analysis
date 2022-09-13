@@ -1,2 +1,3 @@
 # Twitter-Sentiment-Analysis
-Twitter Sentiment Analysis using Tweepy and Text Blob and Visualization of the Analysis.
+Twitter Sentiment Analysis using the Python libraries, Tweepy and Text Blob.
+Visualization of the Analysis.
